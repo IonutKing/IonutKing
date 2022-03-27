@@ -10,5 +10,6 @@
 &nbsp;&nbsp;
 [![website](./img/youtube-dark.svg)](https://youtube.com/c/ionutking)
 &nbsp;&nbsp;
+[![website](./img/twitter-dark.svg)](https://twitter.com/ionut_king_72)
 
 [website]: https://ionutking.tk
