@@ -7,6 +7,7 @@
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://ionutking.tk)
-
+[![website](./img/globe-dark.svg)](https://ionutking.tk)
+&nbsp;&nbsp;
 
 [website]: https://ionutking.tk
