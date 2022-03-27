@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://ionutking.tk#gh-light-mode-only)
+[![website](./img/globe-light.svg)](https://ionutking.tk)
 
 
 [website]: https://ionutking.tk
