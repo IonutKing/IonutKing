@@ -7,7 +7,8 @@
 ### Connect with me:
 
 [![website](./img/globe-light.svg)][website]
-[![website](./img/globe-dark.svg)][website]
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://youtube.com/c/ionutking)
 &nbsp;&nbsp;
 
 [website]: https://ionutking.tk
