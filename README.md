@@ -5,7 +5,7 @@
 - 📫 Reach me on discord Ionut King#8681
 
 ### Connect with me:
-[![website](./img/globe-light.svg)]
+[![website](./img/globe-light.svg)](https://ionutking.tk#gh-light-mode-only)
 
 
 [website]: https://ionutking.tk
