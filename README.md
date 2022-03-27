@@ -8,7 +8,7 @@
 
 [![website](./img/globe-dark.svg)][website]
 &nbsp;&nbsp;
-[![website](./img/twitter-dark.svg)][twitter]]
+[![website](./img/twitter-dark.svg)][twitter]
 
 ### GitHub stats:
 
