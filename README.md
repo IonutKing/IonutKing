@@ -1,4 +1,4 @@
-### Hi there, I'm Ionut - aka Ionut King 👋
+### Hi there, I'm Ionut - aka [Ionut King][steam] 👋
 
 - 👀 I’m interested in gaming.
 - 🌱 I’m currently enjoying life.
@@ -13,3 +13,4 @@
 [![website](./img/twitter-dark.svg)](https://twitter.com/ionut_king_72)
 
 [website]: https://ionutking.tk
+[steam]: https://steamcommunity.com/id/IonutKing/
