@@ -1,9 +1,8 @@
-### Hi there, I'm Ionut - aka [Ionut King][steam] 👋
+# Hi there, I'm Ionut - aka [Ionut King][steam] 👋
 
 - 👀 I’m interested in gaming.
 - 🌱 I’m currently enjoying life.
-- 📫 Reach me on discord Ionut King#8681
-
+- 📫 Reach me on discord: Ionut King#8681
 ### Connect with me:
 
 [![website](./img/globe-dark.svg)][website]
