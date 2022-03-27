@@ -13,7 +13,7 @@
 
 ### GitHub stats:
 
-![Ionut King GitHub stats](https://github-readme-stats.vercel.app/api?username=ionutking&show_icons=true&theme=dracula&hide_border)
+![Ionut King GitHub stats](https://github-readme-stats.vercel.app/api?username=ionutking&show_icons=true&hide_border&theme=dracula)
 
 [website]: https://ionutking.tk
 [steam]: https://steamcommunity.com/id/IonutKing/
