@@ -11,7 +11,9 @@
 &nbsp;&nbsp;
 [![website](./img/twitter-dark.svg)](https://twitter.com/ionut_king_72)
 
-![Ionut King GitHub stats](https://github-readme-stats.vercel.app/api?username=ionutking&show_icons=true&theme=dracula)
+### GitHub stats:
+
+![Ionut King GitHub stats](https://github-readme-stats.vercel.app/api?username=ionutking&show_icons=true&theme=dracula&hide_title)
 
 [website]: https://ionutking.tk
 [steam]: https://steamcommunity.com/id/IonutKing/
