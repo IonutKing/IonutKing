@@ -6,7 +6,7 @@
 ### Connect with me:
 
 [![website](./img/twitter-dark.svg)][twitter]
-[![website](./img/steam.svg)][steam]
+[![website](./img/steam2.svg)][steam]
 
 ### My GitHub stats:
 
