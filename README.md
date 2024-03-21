@@ -5,8 +5,6 @@
 - 📫 Reach me on Discord: ionutking
 ### Connect with me:
 
-[![website](./img/globe-dark.svg)][website]
-&nbsp;&nbsp;
 [![website](./img/twitter-dark.svg)][twitter]
 
 ### My GitHub stats:
