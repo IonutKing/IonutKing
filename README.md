@@ -1,4 +1,4 @@
-# Hi there, I'm Ionut - aka [Ionut King][steam] 👋
+# Hi there, I'm Ionut - aka Ionut King 👋
 
 - 👀 I’m interested in Gaming, Cars & Trucks.
 - 🌱 I’m currently learning everything I can
